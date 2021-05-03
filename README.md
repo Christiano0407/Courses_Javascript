@@ -7,6 +7,12 @@ Javascript Courses.
 # Teachers
 - [Oscar Barajas](https://arepa.dev/)
 
+# Guides:
+- [W3school](https://www.w3schools.com/xml/ajax_xmlhttprequest_response.asp)
+- [Postman](https://www.postman.com/)
+
+# API 
+- [API-Rick](https://rickandmortyapi.com/documentation)
 # MIT License
 
 - [CHOSEALICENSE](https://choosealicense.com/)
