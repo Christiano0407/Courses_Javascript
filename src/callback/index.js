@@ -22,3 +22,7 @@ function princeDate(dateNow) {
     console.log(dateNow);
 }
 date(princeDate); 
+
+/* Request */
+/* 1- XMLHttpRequest => Antes de Fetc(Promesa), porque, así, se usaba antes.  */
+/* 2- fetch => es una promesa = Actual.  */

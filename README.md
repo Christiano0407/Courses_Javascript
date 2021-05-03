@@ -9,6 +9,7 @@ Javascript Courses.
 
 # Guides:
 - [W3school](https://www.w3schools.com/xml/ajax_xmlhttprequest_response.asp)
+- [DeveloperMozilla](https://developer.mozilla.org/es/docs/Web/HTTP/Methods)
 - [Postman](https://www.postman.com/)
 
 # API 

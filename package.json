@@ -4,7 +4,8 @@
   "description": "Javascript Courses.",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Christiano0407/Courses_Javascript/issues"
   },
-  "homepage": "https://github.com/Christiano0407/Courses_Javascript#readme"
+  "homepage": "https://github.com/Christiano0407/Courses_Javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
