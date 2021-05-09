@@ -11,6 +11,9 @@ Javascript Courses.
 - [W3school](https://www.w3schools.com/xml/ajax_xmlhttprequest_response.asp)
 - [DeveloperMozilla](https://developer.mozilla.org/es/docs/Web/HTTP/Methods)
 - [Postman](https://www.postman.com/)
+- [esbuild](https://esbuild.github.io/)
+- [purejs](https://pure-js.com/)
+- [ErelaJs](https://solaris.codes/projects/erelajs/docs/gettingstarted.html)
 
 # API 
 - [API-Rick](https://rickandmortyapi.com/documentation)
