@@ -14,7 +14,19 @@ Javascript Courses.
 - [esbuild](https://esbuild.github.io/)
 - [purejs](https://pure-js.com/)
 - [ErelaJs](https://solaris.codes/projects/erelajs/docs/gettingstarted.html)
-- [Tips-Js](https://www.youtube.com/channel/UCJgGc8pQO1lv04VXrBxA_Hg)
+
+# Tips-Teachers:
+- [Carlos Azaustre](https://www.youtube.com/channel/UCJgGc8pQO1lv04VXrBxA_Hg)
+- [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Midudev](https://www.youtube.com/c/midudev)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [James Quick](https://www.youtube.com/c/JamesQQuick)
+- [Leonidas Esteban](https://www.youtube.com/c/LeonidasEsteban)
+- [FalconMasters](https://www.youtube.com/user/FalconMasters)
+- [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
+- [DesignCourses](https://www.youtube.com/c/DesignCourse)
+- [Youtube-Channel](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
+- [Óscar Barajas](https://www.youtube.com/channel/UCw05fUBPwmpu-ehXFMqfdMw)
 
 # API 
 - [API-Rick](https://rickandmortyapi.com/documentation)
