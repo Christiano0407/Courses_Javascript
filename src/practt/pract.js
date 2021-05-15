@@ -90,3 +90,30 @@ oneBucle = (num) =>  {
 }
 
 oneBucle(11); 
+
+const miArray = [1, 2, 3, 4, 5]; 
+
+miArray.forEach((item,index) => {
+    console.log(`El valor de la posición ${index} es ${item}`);
+})
+
+console.log("De Objeto a Array"); 
+
+/* ====== Objeto a ARRAY */
+
+const libro = {
+    titulo: "Aprendiendo Javascript", 
+    auto: "Carlos Azaustre", 
+    numPaginas: 100, 
+    editorial: "Carlos.es", 
+    precio: "25.50"
+}; 
+
+const props = 
+Object.getOwnPropertyNames(libro); 
+
+props.forEach(name => {
+    let valor = 
+    Object.getOwnPropertyDescriptor(libro, name).value
+    console.log(`la prop ${name} contiene: ${valor}`)
+}); 
