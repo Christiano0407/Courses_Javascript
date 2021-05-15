@@ -21,6 +21,9 @@ Javascript Courses.
 
 - [CHOSEALICENSE](https://choosealicense.com/)
 - [mit](https://choosealicense.com/licenses/mit/)
+- [License-Tips](https://www.youtube.com/watch?v=eWtjgfzpt6Y)
+- [License-Wikipedia](https://es.wikipedia.org/wiki/Licencia_de_software)
+- [Copyright](https://es.wikipedia.org/wiki/Derecho_de_autor)
 
 MIT License
 
